@@ -4,7 +4,7 @@ Python Cricket Analytics Project to scout the best batsmen for a specific situat
 ### Problem Statement
 Before the IPL Auction, teams need to find out the best batsmen who can bat effectively in the middle overs against Chennai Super Kings at MA Chidambaram Stadium, Chepauk.
 
-Dataset Information
+### Dataset Information
 This dataset contains 2 CSV files namely 1) IPL_Ball_by_Ball 2) IPL_Matches
 
 A) The IPL_Ball_by_Ball data file contains 260,920 rows and 16 columns namely 1)ID 2)Innings 3)Overs 4)BallNumber 5)Batter 6)Bowler 7)NonStriker 8)ExtraType 9)BatsmanRun 10)ExtrasRun 11)TotalRun 12)IsWicketDelivery 13)PlayerOut 14)Kind 15)FieldersInvolved 16)BattingTeam
